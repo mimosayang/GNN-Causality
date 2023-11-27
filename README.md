@@ -9,6 +9,9 @@
 
 [无监督的视觉常识特征学习——因果关系上的一点探索（CVPR 2020）](https://zhuanlan.zhihu.com/p/111306353)
 
+[深度神经网络中的因果推理](https://zhuanlan.zhihu.com/p/425331915)
+
+
 ### Causal Inference for NNs
 
 $\bullet$ Estimate causal effects
