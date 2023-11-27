@@ -2,7 +2,9 @@
 关于Causality各种研究的阅读笔记
 
 转：[Causality 基础概念汇总](https://zhuanlan.zhihu.com/p/269625734)
+
 [D分离方法](https://www.bilibili.com/video/BV1xF411K7aa?p=5&vd_source=7f04b7eac11d48d62aada37d93c07804)
+
 [寻找领域不变量：从生成模型到因果表征](https://zhuanlan.zhihu.com/p/568100850)
 
 [无监督的视觉常识特征学习——因果关系上的一点探索（CVPR 2020）](https://zhuanlan.zhihu.com/p/111306353)
