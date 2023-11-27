@@ -3,6 +3,7 @@
 
 转：[Causality 基础概念汇总](https://zhuanlan.zhihu.com/p/269625734)
 [D分离方法](https://www.bilibili.com/video/BV1xF411K7aa?p=5&vd_source=7f04b7eac11d48d62aada37d93c07804)
+[寻找领域不变量：从生成模型到因果表征](https://zhuanlan.zhihu.com/p/568100850)
 
 ### Causal Inference for NNs
 
