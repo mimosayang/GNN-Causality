@@ -9,9 +9,9 @@ $\bullet$ Estimate causal effects
 
 fundamental approach:blocking backdoor paths ...
 
-1. CVPR2020 Tan Wang, Jianqiang Huang, Hanwang Zhang, and Qianru Sun. Visual commonsense r-cnn. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10760–10770, 2020a.
+1. CVPR2020 [Visual commonsense r-cnn.](https://arxiv.org/abs/2002.12204)Tan Wang, Jianqiang Huang, Hanwang Zhang, and Qianru Sun. Visual commonsense r-cnn. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10760–10770, 2020a.
 2. Shengyu Zhang, Tan Jiang, Tan Wang, Kun Kuang, Zhou Zhao, Jianke Zhu, Jin Yu, Hongxia Yang, and Fei Wu. Devlbert: Learning deconfounded visio-linguistic representations. In ACM International Conference on Multimedia, pp. 4373–4382, 2020b.
-3. Fangrui Lv, Jian Liang, Shuang Li, Bin Zang, Chi Harold Liu, Ziteng Wang, and Di Liu. Causality inspired representation learning for domain generalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8046–8056, 2022.
+3. CVPR2022 [Causality inspired representation learning for domain generalization](https://arxiv.org/abs/2203.14237)Fangrui Lv, Jian Liang, Shuang Li, Bin Zang, Chi Harold Liu, Ziteng Wang, and Di Liu. Causality inspired representation learning for domain generalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8046–8056, 2022.
 
 $\bullet$ In CV
 frontdoor adjustment:
