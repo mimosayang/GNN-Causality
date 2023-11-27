@@ -20,6 +20,9 @@ fundamental approach:blocking backdoor paths ...
 3. CVPR2022 [Causality inspired representation learning for domain generalization](https://arxiv.org/abs/2203.14237)Fangrui Lv, Jian Liang, Shuang Li, Bin Zang, Chi Harold Liu, Ziteng Wang, and Di Liu. Causality inspired representation learning for domain generalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8046–8056, 2022.
 
 $\bullet$ In CV
+
+[因果推断：因果表征学习的CV落地](https://zhuanlan.zhihu.com/p/400043237)
+
 frontdoor adjustment:
 1. Arxiv [Causal Unsupervised Semantic Segmentation](https://arxiv.org/abs/2310.07379)
   Junho Kim and Byung-Kwan Lee and Yong Man Ro. Causal Unsupervised Semantic Segmentation
