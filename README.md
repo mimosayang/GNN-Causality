@@ -64,3 +64,10 @@ sophisticated theories:
 
 例如，一个已经在大量猫和狗的图片上训练过的图像识别模型，可能只需要几张斑马的图片，就能学会识别斑马。这就是few-shot learning的一个例子。
 1. NeurIPS2020 [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000)
+
+
+### Causal Reinforcememt Leanring
+[ICML 2020 Causal Reinforcement Learning tutorial](https://crl.causalai.net/#overview)
+
+
+
