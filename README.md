@@ -1,5 +1,5 @@
-# GNN-Causality
-关于GNN，Causality各种研究的阅读笔记
+# Causality
+关于Causality各种研究的阅读笔记
 
 转：[Causality 基础概念汇总](https://zhuanlan.zhihu.com/p/269625734)
 
