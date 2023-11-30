@@ -37,8 +37,8 @@ backdoor adjustment:
 4. CVPR2022 [Show, Deconfound and Tell: Image Captioning with Causal Inference](https://ieeexplore.ieee.org/document/9880383)Bing Liu, Dong Wang, Xu Yang, Yong Zhou, Rui Yao, Zhiwen Shao, and Jiaqi Zhao. Show, deconfound and tell: Image captioning with causal inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 18041–18050, 2022.
 
 mediation analysis:
-1. CVPR 2020 [Unbiased scene graph generation from biased training](https://arxiv.org/abs/2002.11949)Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, and Hanwang Zhang. Unbiased scene graph generation from biased training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3716–3725, 2020b.
-2. Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, and Ji-Rong Wen. Counter- factual vqa: A cause-effect look at language bias. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12700–12710, 2021.
+1. CVPR2020 [Unbiased scene graph generation from biased training](https://arxiv.org/abs/2002.11949)Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, and Hanwang Zhang. Unbiased scene graph generation from biased training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3716–3725, 2020b.
+2. CVPR2021 [Counter- factual vqa: A cause-effect look at language bias](https://arxiv.org/abs/2006.04315)Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, and Ji-Rong Wen. Counter- factual vqa: A cause-effect look at language bias. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12700–12710, 2021.
 
 generating counterfactual augmentations for randomized treatment assignments:
 1. ArXiv [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)Vedika Agarwal, Rakshith Shetty, and Mario Fritz. Towards causal vqa: Revealing and reducing spurious correlations by invariant and covariant semantic editing. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9690–9698, 2020.
@@ -67,7 +67,7 @@ sophisticated theories:
 
 
 ### Causal Reinforcememt Leanring
-ICML 2020 [Causal Reinforcement Learning tutorial](https://crl.causalai.net/#overview)
+ICML2020 [Causal Reinforcement Learning tutorial](https://crl.causalai.net/#overview)
 
 对应[知乎](https://zhuanlan.zhihu.com/p/363339023)链接
 
