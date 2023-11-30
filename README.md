@@ -37,7 +37,7 @@ backdoor adjustment:
 4. CVPR2022 [Show, Deconfound and Tell: Image Captioning with Causal Inference](https://ieeexplore.ieee.org/document/9880383)Bing Liu, Dong Wang, Xu Yang, Yong Zhou, Rui Yao, Zhiwen Shao, and Jiaqi Zhao. Show, deconfound and tell: Image captioning with causal inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 18041–18050, 2022.
 
 mediation analysis:
-1. Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, and Hanwang Zhang. Unbiased scene graph generation from biased training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3716–3725, 2020b.
+1. CVPR 2020 [Unbiased scene graph generation from biased training](https://arxiv.org/abs/2002.11949)Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, and Hanwang Zhang. Unbiased scene graph generation from biased training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3716–3725, 2020b.
 2. Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, and Ji-Rong Wen. Counter- factual vqa: A cause-effect look at language bias. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12700–12710, 2021.
 
 generating counterfactual augmentations for randomized treatment assignments:
