@@ -19,7 +19,7 @@ $\bullet$ Estimate causal effects
 fundamental approach:blocking backdoor paths ...
 
 1. CVPR2020 [Visual commonsense r-cnn.](https://arxiv.org/abs/2002.12204)Tan Wang, Jianqiang Huang, Hanwang Zhang, and Qianru Sun. Visual commonsense r-cnn. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10760–10770, 2020a.
-2. Shengyu Zhang, Tan Jiang, Tan Wang, Kun Kuang, Zhou Zhao, Jianke Zhu, Jin Yu, Hongxia Yang, and Fei Wu. Devlbert: Learning deconfounded visio-linguistic representations. In ACM International Conference on Multimedia, pp. 4373–4382, 2020b.
+2. ArXiv [Devlbert: Learning deconfounded visio-linguistic representations](https://dl.acm.org/doi/10.1145/3394171.3413518)Shengyu Zhang, Tan Jiang, Tan Wang, Kun Kuang, Zhou Zhao, Jianke Zhu, Jin Yu, Hongxia Yang, and Fei Wu. Devlbert: Learning deconfounded visio-linguistic representations. In ACM International Conference on Multimedia, pp. 4373–4382, 2020b.
 3. CVPR2022 [Causality inspired representation learning for domain generalization](https://arxiv.org/abs/2203.14237)Fangrui Lv, Jian Liang, Shuang Li, Bin Zang, Chi Harold Liu, Ziteng Wang, and Di Liu. Causality inspired representation learning for domain generalization. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8046–8056, 2022.
 
 $\bullet$ In CV
@@ -46,8 +46,8 @@ generating counterfactual augmentations for randomized treatment assignments:
 3. CVPR2022 [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528)Ruoyu Wang, Mingyang Yi, Zhitang Chen, and Shengyu Zhu. Out-of-distribution generalization with causal invariant transformations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 375–385, 2022.
 
 sophisticated theories:
-1. Junho Kim, Byung-Kwan Lee, and Yong Man Ro. Demystifying causal features on adversarial examples and causal inoculation for robust network by adversarial instrumental variable regression. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12302–12312, 2023b.
-2. Byung-Kwan Lee, Junho Kim, and Yong Man Ro. Mitigating adversarial vulnerability through causal parameter estimation by adversarial double machine learning. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 4499–4509, October 2023.
+1. CVPR2023 [Demystifying causal features on adversarial examples and causal inoculation for robust network by adversarial instrumental variable regression](https://arxiv.org/abs/2303.01052)Junho Kim, Byung-Kwan Lee, and Yong Man Ro. Demystifying causal features on adversarial examples and causal inoculation for robust network by adversarial instrumental variable regression. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12302–12312, 2023b.
+2. ICCV2023 [Mitigating adversarial vulnerability through causal parameter estimation by adversarial double machine learning](https://arxiv.org/abs/2307.07250)Byung-Kwan Lee, Junho Kim, and Yong Man Ro. Mitigating adversarial vulnerability through causal parameter estimation by adversarial double machine learning. In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 4499–4509, October 2023.
 
 ### Transfer learning
 1.Survey [Transferability in Deep Learning: A Survey](https://arxiv.org/abs/2201.05867)
