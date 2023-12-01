@@ -16,7 +16,7 @@
 
 $\bullet$ Estimate causal effects
 
-fundamental approach:blocking backdoor paths ...
+Fundamental approach:blocking backdoor paths ...
 
 1. CVPR2020 [Visual commonsense r-cnn.](https://arxiv.org/abs/2002.12204)Tan Wang, Jianqiang Huang, Hanwang Zhang, and Qianru Sun. Visual commonsense r-cnn. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10760–10770, 2020a.
 2. ArXiv [Devlbert: Learning deconfounded visio-linguistic representations](https://dl.acm.org/doi/10.1145/3394171.3413518)Shengyu Zhang, Tan Jiang, Tan Wang, Kun Kuang, Zhou Zhao, Jianke Zhu, Jin Yu, Hongxia Yang, and Fei Wu. Devlbert: Learning deconfounded visio-linguistic representations. In ACM International Conference on Multimedia, pp. 4373–4382, 2020b.
@@ -26,24 +26,26 @@ $\bullet$ In CV
 
 [因果推断：因果表征学习的CV落地](https://zhuanlan.zhihu.com/p/400043237)
 
-frontdoor adjustment:
+Frontdoor adjustment:
 1. Arxiv [Causal Unsupervised Semantic Segmentation](https://arxiv.org/abs/2310.07379)
   Junho Kim and Byung-Kwan Lee and Yong Man Ro. Causal Unsupervised Semantic Segmentation
 
-backdoor adjustment:
+Backdoor adjustment:
 1. NeurIPS2020 [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991)Kaihua Tang, Jianqiang Huang, and Hanwang Zhang. Long-tailed classification by keeping the good and removing the bad momentum causal effect. Advances in Neural Information Processing Systems, 33:1513–1524, 2020a.
 2. NeurIPS2020 oral [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547)Dong Zhang, Hanwang Zhang, Jinhui Tang, Xian-Sheng Hua, and Qianru Sun. Causal intervention for weakly-supervised semantic segmentation. Advances in Neural Information Processing Systems, 33:655–666, 2020a.
 3. NeurIPS2020 [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000)Zhongqi Yue, Hanwang Zhang, Qianru Sun, and Xian-Sheng Hua. Interventional few-shot learning. Advances in Neural Information Processing Systems, 33:2734–2746, 2020.
 4. CVPR2022 [Show, Deconfound and Tell: Image Captioning with Causal Inference](https://ieeexplore.ieee.org/document/9880383)Bing Liu, Dong Wang, Xu Yang, Yong Zhou, Rui Yao, Zhiwen Shao, and Jiaqi Zhao. Show, deconfound and tell: Image captioning with causal inference. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 18041–18050, 2022.
 
-mediation analysis:
+Mediation analysis:
 1. CVPR2020 [Unbiased scene graph generation from biased training](https://arxiv.org/abs/2002.11949)Kaihua Tang, Yulei Niu, Jianqiang Huang, Jiaxin Shi, and Hanwang Zhang. Unbiased scene graph generation from biased training. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3716–3725, 2020b.
 2. CVPR2021 [Counter- factual vqa: A cause-effect look at language bias](https://arxiv.org/abs/2006.04315)Yulei Niu, Kaihua Tang, Hanwang Zhang, Zhiwu Lu, Xian-Sheng Hua, and Ji-Rong Wen. Counter- factual vqa: A cause-effect look at language bias. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12700–12710, 2021.
 
-generating counterfactual augmentations for randomized treatment assignments:
+Generating counterfactual:
 1. ArXiv [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](https://arxiv.org/abs/1912.07538)Vedika Agarwal, Rakshith Shetty, and Mario Fritz. Towards causal vqa: Revealing and reducing spurious correlations by invariant and covariant semantic editing. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 9690–9698, 2020.
 2. CVPR2021 [Counterfactual zero- shot and open-set visual recognition](https://arxiv.org/abs/2103.00887)Zhongqi Yue, Tan Wang, Qianru Sun, Xian-Sheng Hua, and Hanwang Zhang. Counterfactual zero- shot and open-set visual recognition. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 15404–15414, 2021.
 3. CVPR2022 [Out-of-distribution generalization with causal invariant transformations](https://arxiv.org/abs/2203.11528)Ruoyu Wang, Mingyang Yi, Zhitang Chen, and Shengyu Zhu. Out-of-distribution generalization with causal invariant transformations. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 375–385, 2022.
+4. KDD2023[Counterfactual Learning on Heterogeneous Graphs with Greedy Perturbation](https://dl.acm.org/doi/abs/10.1145/3580305.3599289)
+
 
 sophisticated theories:
 1. CVPR2023 [Demystifying causal features on adversarial examples and causal inoculation for robust network by adversarial instrumental variable regression](https://arxiv.org/abs/2303.01052)Junho Kim, Byung-Kwan Lee, and Yong Man Ro. Demystifying causal features on adversarial examples and causal inoculation for robust network by adversarial instrumental variable regression. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12302–12312, 2023b.
