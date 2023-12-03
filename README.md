@@ -12,6 +12,8 @@
 [深度神经网络中的因果推理](https://zhuanlan.zhihu.com/p/425331915)
 
 
+经典论文Causal effect inference with deep latent-variable models（还没看）
+
 ### Causal Inference for NNs
 
 $\bullet$ Estimate causal effects
